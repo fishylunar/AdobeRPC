@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-rich-presence": "^0.0.8",
+    "node-bash-title": "^0.0.2",
+    "node-process-windows": "^0.0.2"
+  }
+}
